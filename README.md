@@ -1,6 +1,5 @@
-Sure! Here's the README.md content in Markdown format:
 
-```markdown
+
 # ErrEase - Simplifying Error Understanding and Solutions for Developers
 
 ErrEase is project designed to empower developers in their quest for bug-free code. As developers dive into the intricacies of programming, they often encounter perplexing error messages that can hinder progress and cause frustration. ErrEase comes to the rescue with its powerful implementation of the OpenAI GPT language model, providing developers with clear and concise explanations of these enigmatic error messages in plain, easy-to-understand language. Gone are the days of deciphering complex technical jargon, as ErrEase breaks down each error into simple terms, enabling developers of all levels to grasp the root cause instantly.
